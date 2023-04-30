@@ -41,6 +41,8 @@ class Bank_v1(abstract.bank):
         deposite_amount = int(input("Enter the amount you want to make a deposite: "))
         self.balance += deposite_amount
         print(f'Deposite successfull. Your current balance is {self.balance}')
+
+
 if __name__ == '__main__':
     obj = Bank_v1('Sourabh', 123456789, 25, 'Assam, Barpeta', 550000)
     print("Bank details are as follows\n")
