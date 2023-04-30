@@ -20,3 +20,6 @@ class bank(ABC):
 
     def get_withdrawl_amount():
         pass
+
+    def loan():
+        pass
