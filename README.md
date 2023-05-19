@@ -5,13 +5,3 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 - Bank version 3 is created. It is the upgradation of Bank version 2.
-=======
-- Bank version 3 is created.
-
-# I dont know about this banking versions
->>>>>>> c671616 (Added line)
-=======
-- Bank version 3 is created.
-
-# I dont know about this banking versions
->>>>>>> c671616 (Added line)
